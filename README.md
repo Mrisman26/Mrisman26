@@ -1,7 +1,7 @@
 ---
 
 ## 🧑‍💻 About Me
-🎓 **Lulusan Teknik Komputer** dengan pengalaman lebih dari **2 tahun** di bidang **IT Networking** dan **Fullstack Development**.  
+🎓 **Lulusan Teknik Komputer** dengan pengalaman lebih dari **1 tahun** di bidang **IT Networking** dan **Fullstack Development**.  
 🔧 Menguasai **TCP/IP, DNS, DHCP, OSPF, VLAN, VPN**, serta pengembangan **Laravel, Node.js, Vue.js**.  
 🚀 Terbiasa mengimplementasikan solusi **Cloud, Virtualization, dan IoT**.
 
@@ -36,18 +36,17 @@
 ---
 
 ## 🚀 Featured Projects
-- [**UPZ Masjid**](https://github.com/username/upz-masjid) – Sistem manajemen zakat berbasis Laravel.
-- [**Warung Kelontong**](https://github.com/username/warung-kelontong) – Sistem stok & penjualan online.
-- [**VPN Mikrotik Simulation**](https://github.com/) – Koneksi antar-kantor via IPsec VPN.
-- [**Proxmox Virtualization**](https://github.com/) – Infrastruktur virtualisasi server.
+- [**Daftar Sidang**](https://github.com/Mrisman26/daftarsidangtugasakhir) – Sistem Pendaftaran Sidang Tugas Akhir.
+- [**VPN Mikrotik Simulation**] – Koneksi antar-kantor via IPsec VPN.
+- [**Proxmox Virtualization**] – Infrastruktur virtualisasi server.
 
 ---
 
 ## 📬 Contact Me
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rismanajiz"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="m.rismanagustianajiz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-risman/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mrisman26.github.io/portfolio_mrisman/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 ---
