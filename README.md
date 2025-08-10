@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/w1f9dQ9.gif" width="100%" />
-
 <!-- Animated Typing -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Risman+Agustiansyah+Ajiz;Fullstack+Developer;Network+Engineer;Tech+Enthusiast" alt="Typing SVG" />
