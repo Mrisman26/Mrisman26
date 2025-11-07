@@ -8,13 +8,15 @@
 ---
 
 ## 💼 Experience
+- **PT. RSP Group** – *IT SUPPORT* (2025)
 - **PT. Graha Karya Informasi** – *Network Engineer On Site* (2025)  
 - **PT. Jembatan Data Pangrango** – *Network Operations Center (NOC)* (2023)  
 
 ---
 
 ## 🎓 Education & Certifications
-- 🎓 **Politeknik Sukabumi** – Ahli Madya Teknik Komputer (GPA 3.52/4.00)  
+- 🎓 **Politeknik Sukabumi** – Ahli Madya Teknik Komputer (GPA 3.52/4.00)
+- 📜 **MTCNA** – MikroTik Certified Network Associate    
 - 📜 **ID-Networkers** – Cisco, Mikrotik, PNETlab  
 - 📜 **Dicoding Academy** – Jaringan Komputer, DevOps, Web Programming, Python, ML  
 
@@ -22,7 +24,7 @@
 
 ## 🔧 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,nodejs,express,nestjs,vue,angular,bootstrap,react,mysql,postgresql,redis,docker,linux,git,nginx,python,kotlin" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,nodejs,vue,bootstrap,react,mysql,docker,linux,git,nginx,python," />
 </p>
 
 ---
